@@ -1,0 +1,6 @@
+[submodule "01-data-processing"]
+	path = 01-data-processing
+	url = https://github.com/seamusrobertmurphy/01-data-processing.git
+[submodule "02-lulc-classification"]
+	path = 02-lulc-classification
+	url = https://github.com/seamusrobertmurphy/02-lulc-classification.git
